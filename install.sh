@@ -1,4 +1,4 @@
-#!/bin/bashhttps://github.com/Mannamedjj/LPS/blob/master/install.sh
+#!/bin/bash
 sudo apt-get -y update
 sudo apt-get -y upgrade
 
@@ -197,3 +197,4 @@ echo "done"
 echo -e "\n\n\n\n\n\n\n\n\n\n\nDone! All tools are set up in ~/tools"
 ls -la
 echo "One last time: don't forget to give gdrive permissions and to set up AWS credentials in ~/.aws/!"
+echo "NOW IT IS TIME TO TAKE OVER THE WORLD!! ONE BUG AT A TIME!!"
